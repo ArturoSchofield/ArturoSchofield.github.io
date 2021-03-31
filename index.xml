@@ -35,16 +35,25 @@
     </item>
     
     <item>
-      <title>Encargo1</title>
-      <link>https://ArturoSchofield.github.io/docs/post-2/</link>
+      <title>Encargo 1</title>
+      <link>https://ArturoSchofield.github.io/docs/post-1.5/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://ArturoSchofield.github.io/docs/post-2/</guid>
-      <description>Luz y Sombra.</description>
+      <guid>https://ArturoSchofield.github.io/docs/post-1.5/</guid>
+      <description>Planos de luz.</description>
     </item>
     
     <item>
       <title>Encargo 2</title>
+      <link>https://ArturoSchofield.github.io/docs/post-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://ArturoSchofield.github.io/docs/post-2/</guid>
+      <description>Volumen de Luz.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 3</title>
       <link>https://ArturoSchofield.github.io/docs/post-3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -53,7 +62,7 @@
     </item>
     
     <item>
-      <title>Encargo 3</title>
+      <title>Encargo 4</title>
       <link>https://ArturoSchofield.github.io/docs/post-4/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
