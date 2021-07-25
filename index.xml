@@ -1,73 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arturo Schofield on Arturo Schofield - Taller</title>
-    <link>https://ArturoSchofield.github.io/</link>
-    <description>Recent content in Arturo Schofield on Arturo Schofield - Taller</description>
+    <title>Taller Espacio y Ciudad on Arturo Schofield</title>
+    <link>https://arturoschofield.github.io/</link>
+    <description>Recent content in Taller Espacio y Ciudad on Arturo Schofield</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://ArturoSchofield.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 19:30:08 +1000</lastBuildDate><atom:link href="https://arturoschofield.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prueba</title>
-      <link>https://ArturoSchofield.github.io/docs/ejemplo/</link>
+      <title>Presentación de Avance &#34;1 - Tema“</title>
+      <link>https://arturoschofield.github.io/docs/encargo1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://ArturoSchofield.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+      <guid>https://arturoschofield.github.io/docs/encargo1/</guid>
+      <description>primeras ideas de un proyecto para apoyar la crisis hidrica</description>
+    </item>
+    
+    <item>
+      <title>Encargo Dibujos &#34;2 - Dibujos“</title>
+      <link>https://arturoschofield.github.io/docs/encargo2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://arturoschofield.github.io/docs/encargo2/</guid>
+      <description>primeras ideas de un proyecto para apoyar la crisis hidrica</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://ArturoSchofield.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <link>https://arturoschofield.github.io/docs/markdown/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://ArturoSchofield.github.io/docs/markdown/</guid>
+      <guid>https://arturoschofield.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>Encargo 0</title>
-      <link>https://ArturoSchofield.github.io/docs/post-1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://arturoschofield.github.io/docs/ejemplo/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://ArturoSchofield.github.io/docs/post-1/</guid>
-      <description>realizacion del tutorial introductorio de taller y del primer encargo</description>
-    </item>
-    
-    <item>
-      <title>Encargo 1</title>
-      <link>https://ArturoSchofield.github.io/docs/post-1.5/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://ArturoSchofield.github.io/docs/post-1.5/</guid>
-      <description>Planos de luz.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 2</title>
-      <link>https://ArturoSchofield.github.io/docs/post-2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://ArturoSchofield.github.io/docs/post-2/</guid>
-      <description>Volumen de Luz.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 3</title>
-      <link>https://ArturoSchofield.github.io/docs/post-3/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://ArturoSchofield.github.io/docs/post-3/</guid>
-      <description>Luz y Sombra.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 4</title>
-      <link>https://ArturoSchofield.github.io/docs/post-4/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://ArturoSchofield.github.io/docs/post-4/</guid>
-      <description>Luz y Sombra Narrativa.</description>
+      <guid>https://arturoschofield.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
   </channel>
